@@ -1,0 +1,2 @@
+#!/bin/basha
+find . -empty -printf '%f\n'
